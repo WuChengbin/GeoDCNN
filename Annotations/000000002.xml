@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<folder>Img</folder>
+	<filename>000000002.jpg</filename>
+	<path>D:\DSM\Img\000000002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Type1</name>
+		<subname>triangular</subname>		
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>322</ymin>
+			<xmax>315</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+		<orientation>
+			<xstart>306</xstart>
+			<ystart>352</ystart>
+			<xend>178</xend>
+			<yend>319</yend>
+		</orientation>
+	</object>
+</annotation>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<folder>Img</folder>
+	<filename>000000023.jpg</filename>
+	<path>D:\DSM\Img\000000023.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Type1</name>
+		<subname>culvert</subname>		
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>209</ymin>
+			<xmax>600</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+		<orientation>
+			<xstart>567</xstart>
+			<ystart>242</ystart>
+			<xend>560</xend>
+			<yend>344</yend>
+		</orientation>
+	</object>
+</annotation>
